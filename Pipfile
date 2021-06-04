@@ -9,7 +9,6 @@ verify_ssl = true
 django = "*"
 newspaper3k = "*"
 python-dotenv = "*"
-azure-cognitiveservices-search-newssearch = "*"
 
 [requires]
 python_version = "3.8"
